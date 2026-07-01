@@ -1,11 +1,11 @@
 <div align="center">
   <h1>Hi there, I'm Çağrı Alagöz! 👋</h1>
-  <h3>Software Engineering Student | Developer | AI-Assisted Builder</h3>
+  <h3>Software Engineering Student | Developer | Web & Software Builder</h3>
 </div>
 
 <p align="center">
-  I am a Software Engineering student at Near East University, focused on building clean, useful, and user-friendly software products.
-  I am interested in frontend development, full-stack web applications, modern UI/UX, software engineering fundamentals, and AI-assisted development workflows.
+  I am a Software Engineering student at Near East University, focused on building clean, practical, and user-friendly software products.
+  I enjoy developing modern web interfaces, learning software engineering fundamentals, and improving projects through real-world practice.
 </p>
 
 <div align="center">
@@ -15,12 +15,6 @@
   <a href="https://tr.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1-alag%C3%B6z-5670a6219" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:CHANGE_ME_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/CHANGE_ME_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 ---
@@ -29,35 +23,42 @@
 
 - 🎓 Studying **Software Engineering** at **Near East University**.
 - 💻 Interested in **frontend development**, **full-stack web applications**, and **modern software systems**.
-- 🎨 Focused on creating **clean, responsive, and user-friendly interfaces**.
-- 🤖 Exploring **AI-assisted development workflows** to improve productivity, debugging, research, and documentation.
-- 📚 Continuously learning by building projects, improving code quality, and applying software engineering principles.
+- 🎨 Focused on creating **clean, responsive, readable, and user-friendly interfaces**.
+- 🤖 Exploring **AI-assisted development workflows** for research, debugging, documentation, and productivity.
+- 📚 Continuously learning by building projects and improving code quality step by step.
 
 ---
 
 ### 🧠 Profile Summary
 
-```ts
-const cagriAlagoz = {
-  role: "Software Engineering Student & Developer",
-  university: "Near East University",
-  location: "Türkiye",
-  interests: [
-    "Frontend Development",
-    "Full-Stack Web Development",
-    "Clean UI/UX",
-    "Software Engineering",
-    "AI-Assisted Development"
-  ],
-  goal: "Build practical, modern, and user-friendly software products."
-};
-```
+<table>
+  <tr>
+    <td><strong>🎯 Role</strong></td>
+    <td>Software Engineering Student & Developer</td>
+  </tr>
+  <tr>
+    <td><strong>🏫 Education</strong></td>
+    <td>Software Engineering, Near East University</td>
+  </tr>
+  <tr>
+    <td><strong>📍 Location</strong></td>
+    <td>Türkiye</td>
+  </tr>
+  <tr>
+    <td><strong>💡 Interests</strong></td>
+    <td>Frontend Development, Full-Stack Web Development, Clean UI/UX, Software Engineering, AI-Assisted Development</td>
+  </tr>
+  <tr>
+    <td><strong>🚀 Goal</strong></td>
+    <td>Build practical, modern, and user-friendly software products.</td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Databases:**
+**Languages & Databases**
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -69,7 +70,7 @@ const cagriAlagoz = {
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-**Frameworks & Libraries:**
+**Frameworks & Libraries**
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -78,7 +79,7 @@ const cagriAlagoz = {
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-**Tools & Platforms:**
+**Tools & Platforms**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
@@ -117,45 +118,21 @@ const cagriAlagoz = {
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Project
 
 <table>
   <tr>
-    <td width="50%">
+    <td>
       <h3>🌐 Personal Portfolio Website</h3>
-      <p>A modern portfolio website presenting my profile, education, skills, projects, and contact information.</p>
+      <p>A modern portfolio website presenting profile, education, skills, projects, and contact information.</p>
       <p>
         <a href="https://cgri-portfolio.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo" />
         </a>
       </p>
     </td>
-    <td width="50%">
-      <h3>💻 GitHub Projects</h3>
-      <p>A collection of software engineering, web development, and learning-focused projects.</p>
-      <p>
-        <a href="https://github.com/CHANGE_ME_USERNAME?tab=repositories" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories" />
-        </a>
-      </p>
-    </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CHANGE_ME_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHANGE_ME_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CHANGE_ME_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
@@ -178,9 +155,6 @@ const cagriAlagoz = {
   <a href="https://tr.linkedin.com/in/%C3%A7a%C4%9Fr%C4%B1-alag%C3%B6z-5670a6219" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:CHANGE_ME_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 ---
@@ -188,3 +162,24 @@ const cagriAlagoz = {
 <div align="center">
   <strong>Thanks for visiting my profile! 🚀</strong>
 </div>
+
+<!--
+Optional GitHub Stats Section
+
+The broken "Could not find a user with that name" error happens when the username inside the stats image URL is wrong or still left as a placeholder.
+
+After you know the exact GitHub username, you can add this section back by replacing YOUR_GITHUB_USERNAME with the real username:
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+-->
