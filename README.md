@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td><strong>🎯 Role</strong></td>
-    <td>Software Engineering Student & Developer</td>
+    <td>Software Engineering & Developer</td>
   </tr>
   <tr>
     <td><strong>🏫 Education</strong></td>
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td><strong>📍 Location</strong></td>
-    <td>Türkiye</td>
+    <td>Türkiye | Cyprus </td>
   </tr>
   <tr>
     <td><strong>💡 Interests</strong></td>
