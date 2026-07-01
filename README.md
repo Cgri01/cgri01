@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Studying **Software Engineering** at **Near East University**.
+- 🎓 Studied **Software Engineering** at **Near East University**.
 - 💻 Interested in **frontend development**, **full-stack web applications**, and **modern software systems**.
 - 🎨 Focused on creating **clean, responsive, readable, and user-friendly interfaces**.
 - 🤖 Exploring **AI-assisted development workflows** for research, debugging, documentation, and productivity.
