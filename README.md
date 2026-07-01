@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Çağrı Alagöz! 👋</h1>
-  <h3>Software Engineering Student | Developer | Web & Software Builder</h3>
+  <h3>Software Engineering | Developer | Web & Software Builder | Full-Stack Web Developer | AI Specialist </h3>
 </div>
 
 <p align="center">
